@@ -36,10 +36,10 @@
 
 | 内容 | 位置 |
 | --- | --- |
-| Claude Code | `%USERPROFILE%\.localin\claude.exe` |
+| Claude Code | `%USERPROFILE%\.local\bin\claude.exe` |
 | Claude 配置 | `%USERPROFILE%\.claude\settings.json` |
 | CC Switch | `%LOCALAPPDATA%\Programs\CC Switch\cc-switch.exe` |
-| CC Switch 配置 | `%USERPROFILE%\.cc-switch\` |
+| CC Switch 配置 | `%USERPROFILE%\.cc-switch` |
 
 写入的配置包括：
 
